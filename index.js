@@ -4,7 +4,7 @@ osmosis
     .set({'Name thing': 'title'})
     .set({'Images': ['li.image-thumbnail img@src']})
     .set({'Main image': 'li.image-thumbnail img@src'})
-    .set({'Price': 'di aria-hidden="true"'})
-    .set({'Full price': 'span.product-prev-price'})
+    .set({'Price': 'div span.product-discount-percent'}) //Don't work
+    .set({'Full price': 'span.product-prev-price'}) //Don't work
 
     .data(console.log)
