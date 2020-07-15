@@ -1,0 +1,15 @@
+{
+  "name": "parsing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Andreikovets",
+  "license": "ISC",
+  "dependencies": {
+    "osmosis": "^1.1.10"
+  }
+}
